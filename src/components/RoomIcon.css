@@ -1,0 +1,19 @@
+.roomIcon {
+    width: 64px;
+}
+
+.roomIconPath.color-blue {
+    fill: blue;
+}
+.roomIconPath.color-purple {
+    fill: purple;
+}
+.roomIconPath.color-yellow {
+    fill: yellow;
+}
+.roomIconPath.color-red {
+    fill: tomato;
+}
+.roomIconPath.color-green {
+    fill: green;
+}

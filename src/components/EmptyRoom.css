@@ -1,0 +1,17 @@
+.emptyRoom {
+    display: flex;
+    height: 128px;
+}
+
+.addRoom {
+    margin: auto;
+    font-size: 3em;
+    color: gray;
+    cursor: pointer;
+    border: none;
+    width: 100%;
+    height: 100%;
+}
+.addRoom:hover {
+    border: 1px solid gray;
+}
